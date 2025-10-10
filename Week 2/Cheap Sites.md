@@ -1,4 +1,4 @@
-# Hash-Brown Solution
+# Cheap-Sites Solution
 
 Date: October 6, 2025
 
